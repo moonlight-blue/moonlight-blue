@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm [Param](https://www.linkedin.com/in/paramjangale) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**moonlight-blue/moonlight-blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is the tech-stack that I am familiar with
 
-Here are some ideas to get you started:
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I am familiar with:
+
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
+Github Stats:
+
+[![Param's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonlight-blue&count_private=true&show_icons=true&theme=radical)](https://www.linkedin.com/in/paramjangale/)
+
+Languages Used:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlight-blue&layout=compact&theme=radical)](https://www.linkedin.com/in/paramjangale/)
+
+
+Want to collaborate? Feel free to connect😄
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramjangale/)
