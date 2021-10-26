@@ -15,7 +15,7 @@ Languages I am familiar with:
 
 Languages Used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlight-blue&layout=compact&theme=radical)](https://www.linkedin.com/in/paramjangale/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlight-blue&theme=radical)](https://www.linkedin.com/in/paramjangale/)
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramjangale/)
